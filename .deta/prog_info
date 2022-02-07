@@ -1,0 +1,1 @@
+{"id":"7516b4f7-7cc3-4b3f-9854-5e95e70a1a3b","space":17438,"runtime":"python3.9","name":"fastapi-practice","path":"ik1oic","project":"a0o6q0nh","account":"144798365827","region":"eu-central-1","deps":["fastapi","uvicorn","sqlalchemy","passlib","bcrypt","python-multipart","python-jose","aiofiles"],"envs":null,"public":true,"log_level":"debug","cron":""}
